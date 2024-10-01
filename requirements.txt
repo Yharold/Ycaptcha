@@ -1,0 +1,7 @@
+Augmentor==0.2.12
+matplotlib==3.8.0
+opencv_python==4.9.0.80
+Pillow==10.4.0
+torch==2.0.1+cu118
+torchnet==0.0.4
+torchvision==0.15.2+cu118
