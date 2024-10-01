@@ -1,0 +1,4 @@
+weights/
+.vscode/
+datasets/
+*/__pycache__/
